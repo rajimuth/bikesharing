@@ -37,6 +37,9 @@ A comprehensive amalysis on Gender, popular days of the week and hour of the day
 
 This analysis thus shows that many of the Bike users in Newyork city are male who are also subscibers for Bike rental. They used it most likey for getting to and from office as shown by popular hour of the day to be the morning 8 am-9 am and evening around 5 pm-6 pm.
 
+## LINK TO TABLEAU PUBLIC
+https://public.tableau.com/app/profile/raji.muthukrishnan/viz/Challenge_16499038108550/StoryonNYCBikeData?publish=yes
+
 
 
 
