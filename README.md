@@ -5,6 +5,7 @@ The Newyork City Bike Dataset was analyzed using Tableau to get a better underst
 
 Total number of trips analyzed in this datset is 2,344,224
 A look at the usertype revealed that many of the bike users are Subscribers
+
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/94877067/163308658-1d452813-5085-462f-8c84-838162d733fc.png">
 
 Analysis also showed that many of the users are Male
